@@ -64,8 +64,8 @@ sub{
     line-height: 0;
 }
 table{
-    width: 600px;
-    margin: 20px auto 20px auto;
+    width: 1000px;
+    margin: 0px auto 0px auto;
     float: center;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
     /*border: 1px solid black;*/
@@ -78,7 +78,7 @@ th,td{
 
 /* Website Banner */
 .banner {position: relative; font-family:'Roboto Slab',serif;}
-.top-left {font-size:3.33em; color: #505050; background: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
+.top-left {font-size:3.33em; color: #505050; background: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 3px 0 0 0; top: 0px;}
 .bottom-right {font-size:2.33em; color: #fafafa; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
