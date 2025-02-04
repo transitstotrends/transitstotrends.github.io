@@ -33,7 +33,7 @@ body{
     font-family:'Roboto',sans-serif;
     font-size:1em;
     line-height:1.5em;
-    margin: 60px auto;
+    margin: 20px auto;
     width: 1000px;
 }
 
@@ -87,7 +87,7 @@ th,td{
 .year{color: #505050; font-size:0.67em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
-table.navigation{width:1100px;}
+table.navigation{width:1000px;}
 td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 
 /* Sponsor Images */
