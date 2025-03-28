@@ -89,6 +89,28 @@ th,td{
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:900px;}
 td.navigation{font-size:1.67em; white-space:nowrap; width:10%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
+ul.navigation{display: none; position: absolute; list-style: none; margin: 0; padding: 0; width: 300px; left: 0;}
+
+/*.nav {
+    border: 2px solid white;
+    background-color: black;
+}
+
+.nav td { position: relative; }
+
+.nav table,
+.nav ul { 
+    display: none;
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    left: 0;
+}
+
+.nav td:hover table { display: table; /* or display: block; */ }
+.nav td:hover ul { display: block; }*/
 
 /* Sponsor Images */
 table.sponsors{width:900px;}
