@@ -110,7 +110,7 @@ ul.navigation{display: none; position: absolute; list-style: none; margin: 0; pa
 }
 
 .nav td:hover table { display: table; /* or display: block; */ }
-.nav td:hover ul { display: block; }*/
+/*.nav td:hover ul { display: block; }*/
 
 /* Sponsor Images */
 table.sponsors{width:900px;}
